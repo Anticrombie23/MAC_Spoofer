@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="dependencies"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="dependencies/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="dependencies/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="dependencies/commons-lang3-3.8.jar"/>
+	<classpathentry kind="lib" path="dependencies/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="dependencies/commons-net-3.6.jar"/>
+	<classpathentry kind="lib" path="dependencies/commons-text-1.4.jar"/>
+	<classpathentry kind="lib" path="dependencies/htmlunit-2.33.jar"/>
+	<classpathentry kind="lib" path="dependencies/htmlunit-core-js-2.33.jar"/>
+	<classpathentry kind="lib" path="dependencies/htmlunit-cssparser-1.2.0.jar"/>
+	<classpathentry kind="lib" path="dependencies/httpclient-4.5.6.jar"/>
+	<classpathentry kind="lib" path="dependencies/httpcore-4.4.10.jar"/>
+	<classpathentry kind="lib" path="dependencies/httpmime-4.5.6.jar"/>
+	<classpathentry kind="lib" path="dependencies/jetty-client-9.4.12.v20180830.jar"/>
+	<classpathentry kind="lib" path="dependencies/jetty-http-9.4.12.v20180830.jar"/>
+	<classpathentry kind="lib" path="dependencies/jetty-io-9.4.12.v20180830.jar"/>
+	<classpathentry kind="lib" path="dependencies/jetty-util-9.4.12.v20180830.jar"/>
+	<classpathentry kind="lib" path="dependencies/jetty-xml-9.4.12.v20180830.jar"/>
+	<classpathentry kind="lib" path="dependencies/neko-htmlunit-2.33.jar"/>
+	<classpathentry kind="lib" path="dependencies/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="dependencies/websocket-api-9.4.12.v20180830.jar"/>
+	<classpathentry kind="lib" path="dependencies/websocket-client-9.4.12.v20180830.jar"/>
+	<classpathentry kind="lib" path="dependencies/websocket-common-9.4.12.v20180830.jar"/>
+	<classpathentry kind="lib" path="dependencies/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="dependencies/xercesImpl-2.12.0.jar"/>
+	<classpathentry kind="lib" path="dependencies/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
